@@ -1,0 +1,41 @@
+TEXTEDITOR 1.1 - Intro to video for text editors
+TEXTEDITOR 1.2 - Why are there so many text editors
+TEXTEDITOR 1.3 - Atom vs Sublime
+TEXTEDITOR 1.4 - Simple tasks - open project folders, split screen, open in browser
+TEXTEDITOR 1.5 - Outro to video for text editors
+
+
+
+TEXTEDITOR 1.1 - Intro to video for texteditors
+Chris from Codify Academy here.
+In this video we're going to see why there a lot text editors in the programming world. and why we currently use atom.
+
+
+
+TEXTEDITOR 1.2 - Why are there so many text editors
+At some point someone and this though "I don't like the look and or feel of this editor", "I'm going to code up my own for myself and others to use". Because a text editor is just another computer program.  Since there are many developers with many different tastes we get many different text editors all doing the same thing. Similar to how we have many car companies all make cars but they all look and behave slightly different then all the others.
+
+
+
+TEXTEDITOR 1.3 - Atom vs Sublime
+You will see Atom and Sublime used the most amongst web developers.
+We made a recent switch over to Atom partially because it's created and maintained by Github and partially because we got tied of click the button say I don't want to buy the paid version of Sublime.  But again these are both text editors they do the same thing, they let us write code.
+
+
+TEXTEDITOR 1.4 - Simple tasks - open project folders, split screen, open in browser
+the preform a few standard tasks on each editor, we'll open some project folders split the screen and open the an html file in google.
+
+1) open project folders
+in Atom we go to file and add project folder and in sublime we also go into file and select then add project folder.
+
+2) split screen
+In Atom when you want to split the screen you can drag a file around to a desired spot, or go to view and in panes choose what type of split you want.
+In Sublime there is no drag and drop feature, but we can still go to view into layout and choose what type of split we want, and drag file from there.
+
+3) open in browser
+In Atom you can click the file path here and go to google and paste to see the website.
+In Sublime you can just right click and open in browser and you can also copy the file path, go into goolge and paste to see the website.
+
+
+TEXTEDITOR 1.5 - Outro to video for text editors
+We looked 3 similar tasks, and had similar ways to do them in each editor, Hopefully this video helps you understand that it doesn't matter what text editor you're using, just that you know what they are and how to use one.
